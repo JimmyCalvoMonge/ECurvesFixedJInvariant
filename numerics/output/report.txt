@@ -1,0 +1,60 @@
+cypari 2.5.7, PARI 2.15.4
+[ok] Thm 1.1  \Q             j=1728/7   X=1e+14: formula 62, enumeration 62
+[ok] Thm 1.4  \Q             j=1728/7   Y=1e6: exact 1215852, main term 1215854.2, rel. error -1.8e-06
+[ok] Thm 1.1  \Q             j=1728     X=1e+06: formula 186, enumeration 186
+[ok] Thm 1.4  \Q             j=1728     Y=1e6: exact 1847878, main term 1847876.8, rel. error +6.5e-07
+[ok] Thm 1.1  \Q             j=0        X=1e+04: formula 198, enumeration 198
+[ok] Thm 1.4  \Q             j=0        Y=1e6: exact 1965908, main term 1965905.2, rel. error +1.4e-06
+[ok] Thm 1.1  \Q(i)          j=1728/7   X=1e+14: formula 24, enumeration 24
+[ok] Thm 1.4  \Q(i)          j=1728/7   Y=1e6: exact 1042602, main term 1042538.8, rel. error +6.1e-05
+[ok] Thm 1.1  \Q(i)          j=1728     X=1e+06: formula 296, enumeration 296
+[ok] Thm 1.4  \Q(i)          j=1728     Y=1e6: exact 2935088, main term 2935086.8, rel. error +4.1e-07
+[ok] Thm 1.1  \Q(i)          j=0        X=1e+04: formula 156, enumeration 156
+[ok] Thm 1.4  \Q(i)          j=0        Y=1e6: exact 1546042, main term 1546051.0, rel. error -5.8e-06
+[ok] Thm 1.1  \Q(\sqrt2)     j=1728/7   X=1e+14: formula 48, enumeration 48
+[ok] Thm 1.4  \Q(\sqrt2)     j=1728/7   Y=1e6: exact 1737180, main term 1737247.8, rel. error -3.9e-05
+[ok] Thm 1.1  \Q(\sqrt2)     j=1728     X=1e+06: formula 496, enumeration 496
+[ok] Thm 1.4  \Q(\sqrt2)     j=1728     Y=1e6: exact 4669600, main term 4669410.8, rel. error +4.1e-05
+[ok] Thm 1.1  \Q(\sqrt2)     j=0        X=1e+04: formula 768, enumeration 768
+[ok] Thm 1.4  \Q(\sqrt2)     j=0        Y=1e6: exact 7361940, main term 7361708.4, rel. error +3.1e-05
+[ok] Thm 1.1  \Q(\sqrt{-5})  j=1728/7   X=1e+14: formula 44, enumeration 44
+[ok] Thm 1.4  \Q(\sqrt{-5})  j=1728/7   Y=1e6: exact 1514380, main term 1514330.2, rel. error +3.3e-05
+[ok] Thm 1.1  \Q(\sqrt{-5})  j=1728     X=1e+06: formula 252, enumeration 252
+[ok] Thm 1.4  \Q(\sqrt{-5})  j=1728     Y=1e6: exact 2563464, main term 2563383.4, rel. error +3.1e-05
+[ok] Thm 1.1  \Q(\sqrt{-5})  j=0        X=1e+04: formula 276, enumeration 276
+[ok] Thm 1.4  \Q(\sqrt{-5})  j=0        Y=1e6: exact 2758328, main term 2758214.0, rel. error +4.1e-05
+[ok] Thm 1.1  \Q(\sqrt{-23}) j=1728/7   X=1e+14: formula 22, enumeration 22
+[ok] Thm 1.4  \Q(\sqrt{-23}) j=1728/7   Y=1e6: exact 1702878, main term 1702801.0, rel. error +4.5e-05
+[ok] Thm 1.1  \Q(\sqrt{-23}) j=1728     X=1e+06: formula 344, enumeration 344
+[ok] Thm 1.4  \Q(\sqrt{-23}) j=1728     Y=1e6: exact 3369434, main term 3369408.9, rel. error +7.4e-06
+[ok] Thm 1.1  \Q(\sqrt{-23}) j=0        X=1e+04: formula 384, enumeration 384
+[ok] Thm 1.4  \Q(\sqrt{-23}) j=0        Y=1e6: exact 3798054, main term 3798095.4, rel. error -1.1e-05
+[ok] Thm 1.9  \Q             j=1728/7   m=1 least height 5832, 2 classes; enumeration 2, none lower
+[ok] Thm 1.9  \Q(\sqrt2)     j=1728/7   m=1 least height 531441, 4 classes; enumeration 4, none lower
+[ok] Thm 1.9  \Q(\sqrt{-23}) j=1728/7   m=1 least height 34012224, 2 classes; enumeration 2, none lower
+[ok] Thm 1.9  \Q(\sqrt{-23}) j=0        m=1 least height 1, 6 classes; enumeration 6, none lower
+[ok] Thm 1.9  \Q(\sqrt{-5})  j=-3375    m=1 least height 1838265625, 4 classes; enumeration 4, none lower
+[ok] Thm 1.9  \Q(\sqrt{-5})  j=3456/29  m=2 least height 256, 4 classes; enumeration 4, none lower
+[ok] Thm 1.9  \Q(\sqrt{-21}) j=6912/31  m=1 least height 1, 8 classes; enumeration 8, none lower
+[ok] Thm 1.9  \Q(\sqrt{-21}) j=3456/29  m=2 least height 256, 8 classes; enumeration 8, none lower
+[ok] Thm 1.9  \Q(\sqrt{-21}) j=6912/85  m=3 least height 6561, 8 classes; enumeration 8, none lower
+[ok] Thm 1.9  \Q(\sqrt{-21}) j=3456/83  m=5 least height 562500, 16 classes; enumeration 16, none lower
+[ok] sieve and Algorithm 2 agree over \Q
+Thm 1.6  \Q     X=1e6: CM 2168 = 1968 + 186 + 14, X^{1/6}(1-p0)=0.9225, limit 0.9400
+Thm 1.6  \Q     X=1e12: CM 1984546 = 1965908 + 18480 + 158, X^{1/6}(1-p0)=0.9392, limit 0.9400
+Thm 1.6  \Q     X=1e18: CM 1967754548 = 1965905182 + 1847878 + 1488, X^{1/6}(1-p0)=0.9398, limit 0.9400
+Thm 1.6  \Q     X=1e24: CM 1966089986934 = 1965905184534 + 184787678 + 14722, X^{1/6}(1-p0)=0.9399, limit 0.9400
+[ok] Thm 1.6  \Q: within 0.1% of the limit at X=1e24
+[ok] sieve and Algorithm 2 agree over \Q(i)
+Thm 1.6  \Q(i)  X=1e6: CM 1848 = 1552 + 296 + 0, X^{1/6}(1-p0)=1.6017, limit 1.8984
+Thm 1.6  \Q(i)  X=1e12: CM 1575436 = 1546042 + 29364 + 30, X^{1/6}(1-p0)=1.8658, limit 1.8984
+Thm 1.6  \Q(i)  X=1e18: CM 1548986412 = 1546051022 + 2935088 + 302, X^{1/6}(1-p0)=1.8950, limit 1.8984
+Thm 1.6  \Q(i)  X=1e24: CM 1546344545078 = 1546051033566 + 293508644 + 2868, X^{1/6}(1-p0)=1.8981, limit 1.8984
+[ok] Thm 1.6  \Q(i): within 0.1% of the limit at X=1e24
+[ok] sieve and Algorithm 2 agree over \Q(\sqrt{-3})
+Thm 1.6  \Q(\sqrt{-3}) X=1e6: CM 3756 = 3636 + 120 + 0, X^{1/6}(1-p0)=0.3195, limit 0.3282
+Thm 1.6  \Q(\sqrt{-3}) X=1e12: CM 3633554 = 3621642 + 11890 + 22, X^{1/6}(1-p0)=0.3278, limit 0.3282
+Thm 1.6  \Q(\sqrt{-3}) X=1e18: CM 3622863214 = 3621674496 + 1188490 + 228, X^{1/6}(1-p0)=0.3281, limit 0.3282
+Thm 1.6  \Q(\sqrt{-3}) X=1e24: CM 3621793770758 = 3621674918004 + 118850478 + 2276, X^{1/6}(1-p0)=0.3282, limit 0.3282
+[ok] Thm 1.6  \Q(\sqrt{-3}): within 0.1% of the limit at X=1e24
+46 checks, 0 failures
